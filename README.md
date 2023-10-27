@@ -1,7 +1,5 @@
 # Flutter Course
 
-Flutter Course - Flutter & Dart - The Complete Guide [2023 Edition]
+Flutter Course - The Complete Flutter Development Bootcamp with Dart
 
-Course Link - https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/
-
-Course GitHub Link - https://github.com/academind/flutter-complete-guide-course-resources
+Course Link - https://www.udemy.com/course/flutter-bootcamp-with-dart
